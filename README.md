@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nasrullashareef
 - 👀 I’m interested in web development technologies
-- 🌱 I’m currently learning HTML, CSS, REACT.JS
+- 🌱 I’m currently exploring HTML, CSS, REACT.JS
 - 💞️ I’m looking to collaborate on web development
 - 📫 reach me: 
 
